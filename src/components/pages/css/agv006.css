@@ -1,0 +1,83 @@
+/* .DBbg{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(33,100,138,1) 35%, rgba(31,88,129,1) 100%);
+
+} */
+
+
+.DBbg{
+    background: -webkit-gradient(linear, right top, left bottom, from(#216E93), color-stop(#21648A), color-stop(#1F5881), color-stop(#172D5B), to(#191C51));
+    background: -webkit-linear-gradient(top right, #216E93, #21648A, #1F5881, #172D5B, #191C51);
+    background: -o-linear-gradient(top right, #216E93, #21648A, #1F5881, #172D5B, #191C51);
+    background: linear-gradient(to bottom left, #216E93, #21648A, #1F5881, #172D5B, #191C51);
+    color: white;
+}
+.CardHeader{
+    background: -webkit-gradient(linear, right top, left bottom, from(#f1592a), color-stop(#f1592a), color-stop(#f1592a), color-stop(#f1592a), to(#f1592a));
+    background: -webkit-linear-gradient(top right, #f1592a, #bd3911, #bd2e03, #f1592a, #f1592a);
+    background: -o-linear-gradient(top right, #f1592a, #bd3911, #bd2e03, #c93508, #c9380c);
+    background: linear-gradient(to bottom left, #f1592a, #bd3911, #bd2e03, #c93508, #c9380c);
+    color: white;
+}
+
+#p{
+margin-bottom: 0px;
+}
+
+.chart-card {
+    /* background-color: rgba(29, 27, 65, 0.6); */
+    background-color:#172D5B;
+    border-radius: 5px;
+    overflow: hidden;
+    color: floralwhite;
+    font-weight: 500;
+
+    
+}
+
+.Fcolor{
+    color: #00ffd5;
+    border-bottom: 5px solid #00ffd5;
+}
+.Fcolor2{
+    color: #ffeb3b !important;
+    border-bottom: 5px solid #ffeb3b !important;
+}
+.Fcolor3{
+    color: #f1592a !important;
+    border-bottom: 5px solid #f1592a !important;
+}
+
+.cardcus {
+    background: #27293d;
+    border: 0;
+    position: relative;
+    box-shadow: 0 1px 20px 0 rgba(0,0,0,.1);
+    color: #00d6b4;
+   
+    
+}
+.cardcus2 {
+    background: #b71c1c  ;
+    border: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: relative;
+    box-shadow: 0 1px 20px 0 rgba(0,0,0,.1);
+    color: #000000;
+    
+}
+.cardcus3 {
+    background: #00c851 ;
+    border: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: relative;
+    box-shadow: 0 1px 20px 0 rgba(0,0,0,.1);
+    color: #ffffff;
+    
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: #00d6b4;
+  }

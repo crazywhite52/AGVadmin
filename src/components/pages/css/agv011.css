@@ -1,0 +1,159 @@
+/* @import url(http://allfont.net/allfont.css?fonts=sansation-bold); */
+@font-face {
+    font-family: 'Sansation Bold';
+    src: url('./../../../assets/sansation-bold.woff');
+}
+
+.box-1 {
+    font-family: 'Sansation Bold', arial;
+    font-style: normal;
+    font-weight: bold;
+    width: 160px;
+    height: 100px;
+    background: #8D9E21;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    padding-top: 10px;
+}
+
+.txttotal {
+    font-family: 'Sansation Bold', arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.txtH {
+    font-family: 'Sansation Bold', arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.Line1 {
+    /* position: absolute; */
+    width: 100%;
+    height: 0px;
+    border: 4px solid #4C6FED;
+    margin-top: 40px;
+}
+
+.Arrow {
+    /* position: absolute; */
+    width: 81px;
+    height: 0px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.box-2 {
+    font-family: 'Sansation Bold', arial;
+    font-style: normal;
+    font-weight: bold;
+    width: 160px;
+    height: 100px;
+    background: #1B3476;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    padding-top: 10px;
+}
+
+.box-3 {
+    font-family: 'Sansation Bold', arial;
+    font-style: normal;
+    font-weight: bold;
+    width: 160px;
+    height: 100px;
+    background: #4AC97D;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    padding-top: 10px;
+}
+
+.box-4 {
+    font-family: 'Sansation Bold', arial;
+    font-style: normal;
+    font-weight: bold;
+    width: 160px;
+    height: 100px;
+    background: #C9524A;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    padding-top: 10px;
+}
+
+.box-ol {
+    font-family: 'Sansation Bold', arial;
+    font-style: normal;
+    font-weight: bold;
+    width: 160px;
+    height: 100px;
+    background: #21359E;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    padding-top: 10px;
+}
+
+.box-w {
+    font-family: 'Sansation Bold', arial;
+    font-style: normal;
+    font-weight: bold;
+    width: 160px;
+    height: 100px;
+    background: #21979E;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    padding-top: 10px;
+}
+
+.box-sp {
+    font-family: 'Sansation Bold', arial;
+    font-style: normal;
+    font-weight: bold;
+    width: 160px;
+    height: 100px;
+    background: #FB8012;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    padding-top: 10px;
+}
+
+.box-lz {
+    font-family: 'Sansation Bold', arial;
+    font-style: normal;
+    font-weight: bold;
+    width: 160px;
+    height: 100px;
+    background: #8321B1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    padding-top: 10px;
+}
+
+.box-jd {
+    font-family: 'Sansation Bold', arial;
+    font-style: normal;
+    font-weight: bold;
+    width: 160px;
+    height: 100px;
+    background: #F80B36;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    padding-top: 10px;
+}
+
+.box-other {
+    font-family: 'Sansation Bold', arial;
+    font-style: normal;
+    font-weight: bold;
+    width: 160px;
+    height: 100px;
+    background: #0BB1F8;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    padding-top: 10px;
+}

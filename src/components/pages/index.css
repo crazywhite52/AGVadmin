@@ -1,0 +1,20 @@
+body, html {
+    height: 100%;
+    }
+    .bg {
+    background-image: url("https://c8.alamy.com/comp/W793B9/agv-automated-guided-vehicle-robots-which-are-responsible-for-delivering-and-sorting-out-parcels-work-in-the-electronics-logistics-base-of-chinese-o-W793B9.jpg");
+    height: 85vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+
+    .jqx-fill-state-normal-metrodark {
+        font-size: 12px;
+        line-height: 17px;
+        font-family: 'segoe ui', arial, sans-serif;
+        border-color: #35353A;
+        color: #ffffff;
+        background: #ad2d2d; 
+    }
