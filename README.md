@@ -1,4 +1,4 @@
-# mdbreact-admin-template
+# AGVadmin
 
 > MDB - React Admin
 ## Build Setup
@@ -15,5 +15,4 @@ yarn build
 
 # build for production and view the bundle analyzer report
 yarn build --report
-```
-# AGVadmin
+
